@@ -226,7 +226,9 @@ body {
   .card-small-porcentage img {
     margin-right: 5px;
   }
-  
+  .wraper{
+    padding: 0 30px;
+  }
   @media screen and (min-width: 480px) {
     .grid {
       /* border: 1px solid purple; */
